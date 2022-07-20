@@ -1,1 +1,1 @@
-# Anime-Insight-Using-Power-Bi
+# Anime-Insights-Using-Power-Bi
