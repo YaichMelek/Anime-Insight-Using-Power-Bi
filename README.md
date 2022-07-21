@@ -17,12 +17,12 @@ https://app.powerbi.com/reportEmbed?reportId=a2762da7-0c7c-4349-b3c1-746506c5a0f
 ## Table of Content
 
 - [Getting Started](#getting-started)
-- [Features](#features)
-- [Stack](#stack)
-- [Development server](#development-server)
-- [Code scaffolding](#code-scaffolding)
-- [Running end-to-end tests](#running-end-to-end-tests)
-- [Further help](#further-help)
+- [Intial Data Transforming and Loading](#intial-data-transforming-and-loading)
 
 ## Getting started
 
+## Intial Data Transforming and Loading
+Remove Unnecessery Rows ( 0 & -1 sales amount) and Collumns
+Remove Duplicates
+Add collumns using formula ( converting rating from "K" & "M" into numbers)
+Rounding the values and create measures
