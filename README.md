@@ -8,7 +8,8 @@ by [@yaichmelek](https://linkedin.com/in/yaich-melek)
 ![Gif](https://user-images.githubusercontent.com/107370774/176468885-63a086eb-a76d-4377-abfb-9e56eb5b84f2.gif)
 
 ## Screenshots
-![Screen shot](https://user-images.githubusercontent.com/107370774/176471749-a885fc92-1bb7-4ff0-80cf-cf3f2c6d0ebf.png)
+![Capture d’écran (204)](https://user-images.githubusercontent.com/107370774/180189267-bc4a7675-8a9b-4bc7-a35c-92c3aa4188eb.png)
+
 
 ## Table of Content
 
