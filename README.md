@@ -1,4 +1,4 @@
-# Angular Materials Starter Template
+# Anime-Insights-Using-Power-Bi
 ![Anime insights](https://user-images.githubusercontent.com/107370774/180188529-c631f82a-e272-4aeb-9916-25fe4c3bef23.jpg)
 
 by [@yaichmelek](https://linkedin.com/in/yaich-melek)
