@@ -16,7 +16,7 @@ https://app.powerbi.com/reportEmbed?reportId=a2762da7-0c7c-4349-b3c1-746506c5a0f
 ## Steps
 1- Dataset
 --------------------------------------------------------------------------------
-download the dataset from kaggle.
+Download the dataset from kaggle
 
 2- Intial Data Transforming and Loading
 --------------------------------------------------------------------------------
