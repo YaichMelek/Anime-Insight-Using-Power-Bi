@@ -13,16 +13,18 @@ https://app.powerbi.com/reportEmbed?reportId=a2762da7-0c7c-4349-b3c1-746506c5a0f
 ## Screenshots
 ![Capture d’écran (204)](https://user-images.githubusercontent.com/107370774/180189267-bc4a7675-8a9b-4bc7-a35c-92c3aa4188eb.png)
 
+## Steps
+===
+1. Dataset
+--------------------------------------------------------------------------------
+download the dataset from kaggle.
 
-## Table of Content
-
-- [Getting Started](#getting-started)
-- [Intial Data Transforming and Loading](#intial-data-transforming-and-loading)
-
-## Getting started
-
-## Intial Data Transforming and Loading
+2- Intial Data Transforming and Loading
+--------------------------------------------------------------------------------
 Remove Unnecessery Rows ( 0 & -1 sales amount) and Collumns
 Remove Duplicates
 Add collumns using formula ( converting rating from "K" & "M" into numbers)
 Rounding the values and create measures
+
+3- Visualizing insights on Power Bi
+--------------------------------------------------------------------------------
