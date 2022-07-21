@@ -14,8 +14,7 @@ https://app.powerbi.com/reportEmbed?reportId=a2762da7-0c7c-4349-b3c1-746506c5a0f
 ![Capture d’écran (204)](https://user-images.githubusercontent.com/107370774/180189267-bc4a7675-8a9b-4bc7-a35c-92c3aa4188eb.png)
 
 ## Steps
-===
-1. Dataset
+1- Dataset
 --------------------------------------------------------------------------------
 download the dataset from kaggle.
 
