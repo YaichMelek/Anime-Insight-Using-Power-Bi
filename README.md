@@ -20,10 +20,10 @@ download the dataset from kaggle.
 
 2- Intial Data Transforming and Loading
 --------------------------------------------------------------------------------
-Remove Unnecessery Rows ( 0 & -1 sales amount) and Collumns
-Remove Duplicates
-Add collumns using formula ( converting rating from "K" & "M" into numbers)
-Rounding the values and create measures
+- Remove Unnecessery Rows ( 0 & -1 sales amount) and Collumns
+- Remove Duplicates
+- Add collumns using formula ( converting rating from "K" & "M" into numbers)
+- Rounding the values and create measures
 
 3- Visualizing insights on Power Bi
 --------------------------------------------------------------------------------
